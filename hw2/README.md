@@ -11,7 +11,7 @@
 3. Измерьте времена исполнения для размеров N = 500, 512, 1000, 1024, 2000, 2048(25%)
 В т.ч. проведите сравнение с виртуальной машиной, докером (опционально)
 
-    `matmul_project`
+    `matmul_project/task02_03_result.txt`
 
 4. И базовые скрипты баш(25%)
     1. Organize FOR loop printing the even numbers only from 100 to 1000
