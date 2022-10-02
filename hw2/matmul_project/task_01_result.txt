@@ -1,0 +1,42 @@
+runtime 0.003892 seconds
+runtime 0.003667 seconds
+runtime 0.003521 seconds
+runtime 0.003589 seconds
+runtime 0.003449 seconds
+average runtime ij matrix by vector 0.003624 seconds
+---------------------------------
+runtime 0.031041 seconds
+runtime 0.043128 seconds
+runtime 0.046887 seconds
+runtime 0.048157 seconds
+runtime 0.049312 seconds
+average runtime ji matrix by vector 0.043705 seconds
+---------------------------------
+runtime 36.060853 seconds
+runtime 35.802170 seconds
+runtime 35.491601 seconds
+runtime 35.888140 seconds
+runtime 35.333962 seconds
+average runtime ijk 35.715345 seconds
+---------------------------------
+runtime 20.944606 seconds
+runtime 21.052744 seconds
+runtime 20.844981 seconds
+runtime 20.898954 seconds
+runtime 21.006780 seconds
+average runtime jik 20.949613 seconds
+---------------------------------
+runtime 4.413101 seconds
+runtime 4.604151 seconds
+runtime 4.689943 seconds
+runtime 4.863500 seconds
+runtime 4.833063 seconds
+average runtime kij 4.680752 seconds
+---------------------------------
+runtime 4.574710 seconds
+runtime 4.584409 seconds
+runtime 4.730488 seconds
+runtime 4.727245 seconds
+runtime 5.092522 seconds
+average runtime kij opt 4.741875 seconds
+---------------------------------

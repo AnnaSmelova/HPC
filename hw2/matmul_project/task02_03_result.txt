@@ -1,0 +1,87 @@
+--------------Vector-matrx multiply-------------------
+runtime 0.000315 seconds
+runtime 0.000234 seconds
+runtime 0.000235 seconds
+runtime 0.000164 seconds
+runtime 0.000162 seconds
+Size 500: average runtime ij matrix by vector 0.000222 seconds
+---------------------------------
+runtime 0.000254 seconds
+runtime 0.000200 seconds
+runtime 0.000182 seconds
+runtime 0.000171 seconds
+runtime 0.000198 seconds
+Size 512: average runtime ij matrix by vector 0.000201 seconds
+---------------------------------
+runtime 0.001228 seconds
+runtime 0.000951 seconds
+runtime 0.000982 seconds
+runtime 0.000946 seconds
+runtime 0.000962 seconds
+Size 1000: average runtime ij matrix by vector 0.001014 seconds
+---------------------------------
+runtime 0.001272 seconds
+runtime 0.000986 seconds
+runtime 0.000974 seconds
+runtime 0.000972 seconds
+runtime 0.000973 seconds
+Size 1024: average runtime ij matrix by vector 0.001035 seconds
+---------------------------------
+runtime 0.005426 seconds
+runtime 0.004249 seconds
+runtime 0.004271 seconds
+runtime 0.004335 seconds
+runtime 0.004300 seconds
+Size 2000: average runtime ij matrix by vector 0.004516 seconds
+---------------------------------
+runtime 0.005426 seconds
+runtime 0.004394 seconds
+runtime 0.004235 seconds
+runtime 0.004330 seconds
+runtime 0.004298 seconds
+Size 2048: average runtime ij matrix by vector 0.004537 seconds
+---------------------------------
+---------------------------------
+---------------Matrix-matrix multiply------------------
+runtime 0.049051 seconds
+runtime 0.044541 seconds
+runtime 0.045152 seconds
+runtime 0.044106 seconds
+runtime 0.045763 seconds
+Size 500: average runtime kij matrix by matrix 0.045723 seconds
+---------------------------------
+runtime 0.069761 seconds
+runtime 0.078207 seconds
+runtime 0.098303 seconds
+runtime 0.090093 seconds
+runtime 0.076746 seconds
+Size 512: average runtime kij matrix by matrix 0.082622 seconds
+---------------------------------
+runtime 0.813720 seconds
+runtime 0.798864 seconds
+runtime 0.790818 seconds
+runtime 0.788732 seconds
+runtime 0.792015 seconds
+Size 1000: average runtime kij matrix by matrix 0.796830 seconds
+---------------------------------
+runtime 0.836091 seconds
+runtime 0.840231 seconds
+runtime 0.836921 seconds
+runtime 0.841674 seconds
+runtime 0.833916 seconds
+Size 1024: average runtime kij matrix by matrix 0.837767 seconds
+---------------------------------
+runtime 6.732521 seconds
+runtime 6.729702 seconds
+runtime 6.649056 seconds
+runtime 6.590737 seconds
+runtime 6.743667 seconds
+Size 2000: average runtime kij matrix by matrix 6.689137 seconds
+---------------------------------
+runtime 7.014335 seconds
+runtime 7.024321 seconds
+runtime 7.008653 seconds
+runtime 6.943565 seconds
+runtime 6.984304 seconds
+Size 2048: average runtime kij matrix by matrix 6.995036 seconds
+---------------------------------

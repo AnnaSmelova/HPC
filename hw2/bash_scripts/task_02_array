@@ -1,0 +1,6 @@
+#!/bin/bash 
+array=(01 Arr 02 Bash 03 script 04 printing 05 endofarray)
+for i in "${array[@]}"
+do
+    echo $i
+done
