@@ -14,3 +14,5 @@
 <br><br>
 Note: clock() measures the sum of wall clocks across all threads. Use omp_get_wtime() instead (it returns value in seconds).
 
+![MonteCarlo result](https://github.com/AnnaSmelova/HPC/blob/main/hw3/MonteCarlo/MonteCarlo_pi_estimation_result.png)
+
