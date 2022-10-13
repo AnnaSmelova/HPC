@@ -1,0 +1,17 @@
+Random matrix:
+1	1	1	0	0	
+0	1	1	0	0	
+0	0	1	1	0	
+1	1	1	1	0	
+1	0	1	1	0	
+
+PATH LEN: 4
+
+Result Matrix:
+5	6	11	8	0	
+4	5	9	7	0	
+7	8	14	10	0	
+9	11	20	14	0	
+9	11	20	14	0	
+
+Threads: 2, path_len(p): 4, N: 5, time: 0.000008 seconds
